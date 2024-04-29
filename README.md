@@ -2,7 +2,7 @@
 <h3 align="center">To learn a little more about my modest self.</h3>
 <img align="right" alt="Coding" width="430" src='./img/cat.jpg' />
 
-### Mi CV :notebook: - [Arbakov Maxim CV](https://drive.google.com/file/d/11W-Sp99douVq9cAOhxLEdMZG-Hw_ry8M/view)
+### Mi CV :notebook: - [Arbakov Maxim CV](https://drive.google.com/file/d/1tzUZV-JZX4SAlV1wM3zKDiScMys78Fvf/view?usp=drive_link)
 
 ### Contact with me:
 

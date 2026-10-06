@@ -2,7 +2,7 @@
 <h3 align="center">To learn a little more about my modest self.</h3>
 <img align="right" alt="Coding" width="430" src='./img/cat.jpg' />
 
-### Mi CV :notebook: - [Arbakov Maxim CV](https://drive.google.com/file/d/1DXQY3TBjRwsyTZ5OC_rvCEbY0BYmOTq7/view?usp=drive_link)
+<!-- ### Mi CV :notebook: - [Arbakov Maxim CV](https://drive.google.com/file/d/1DXQY3TBjRwsyTZ5OC_rvCEbY0BYmOTq7/view?usp=drive_link)
 
 ### Contact with me:
 
@@ -10,7 +10,7 @@
 <a href="mailto:fefaodessa@gmail.com" target="blank"><img align="center" src="./img/gmail.jpg" alt="gmail Arbakov Maksim"  width="150" height="80"/></a>
 <a href="https://www.linkedin.com/in/arbakov-maksim" target="blank"><img align="center" src="./img/LinkedIn.jpg" alt="linkedin Arbakov Maksim" width="150" height="80"/></a>
 <a href="https://t.me/ArbakovMaksim" target="blank"><img align="center" src="./img/telegram.png" alt="Telegram Arbakov Maksim" width="150" height="80"/></a>
-</p>
+</p> -->
 
 <h3 align="left">🛠 Tech stack:</h3>
 
